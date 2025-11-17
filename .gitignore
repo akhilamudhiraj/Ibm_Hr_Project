@@ -1,0 +1,25 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data, models, and generated figures
+data/
+models/
+figures/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Others (optional)
+*.log
